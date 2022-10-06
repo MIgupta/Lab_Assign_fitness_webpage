@@ -1,5 +1,3 @@
-# Lab_Assign_fitness_webpage
+# Lab_Assign_fitness_webp
 
-
-
-git@github.com:MIgupta/Lab_Assign_fitness_webpage.git
+Click on link for Demo video https://drive.google.com/drive/u/1/my-drive
